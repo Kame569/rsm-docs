@@ -34,7 +34,7 @@ mcs2791
 
 <figure><img src="../.gitbook/assets/無題 2024-09-01 22-47-30.jpg" alt=""><figcaption></figcaption></figure>
 
-3. **ゲーマータグを検索** から、 [#can-jia-qing-bao](no.md#can-jia-qing-bao "mention")にある`mcs2791`を検索してフレンドを申請しましょう。
+3. **ゲーマータグを検索** から、 [#can-jia-qing-bao](bedrock.md#can-jia-qing-bao "mention")にある`mcs2791`を検索してフレンドを申請しましょう。
 
 <figure><img src="../.gitbook/assets/無題 2024-09-01 22-49-42.jpg" alt=""><figcaption></figcaption></figure>
 

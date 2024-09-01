@@ -19,3 +19,9 @@ description: このウェブサイトはRoomServerをより楽しくプレイを
 RoomServerのお知らせを受け取るだけじゃなくて、ほかのサーバーものぞきに行ってみよう！
 {% endhint %}
 
+## お問い合わせについて
+
+[**公式Discordサーバー**](https://discord.gg/WERPCCDAyp)に参加して、[**チケット**](https://discord.com/channels/1173912369693466654/1213323495912644618)を生成することで運営に直接お問い合わせができます。
+
+
+

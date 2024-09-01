@@ -22,7 +22,7 @@ rsm.bonjin.xyz
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-3. サーバーを追加/ダイレクト接続を押すと、下記画面になります。 [#join-address](javano.md#join-address "mention")に書いてある`rsm.bonjin.xyz` をサーバーアドレスの欄に書きましょう
+3. サーバーを追加/ダイレクト接続を押すと、下記画面になります。 [#join-address](java.md#join-address "mention")に書いてある`rsm.bonjin.xyz` をサーバーアドレスの欄に書きましょう
 
 <figure><img src="../.gitbook/assets/スクリーンショット 2024-09-01 223915.png" alt=""><figcaption></figcaption></figure>
 
