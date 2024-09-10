@@ -1,6 +1,6 @@
 # Table of contents
 
-* [ようころRoomServerへ！](README.md)
+* [ようこそRoomServerへ！](README.md)
 * [RSMでの利用規約](tos.md)
 * [プレイバシーポリシー](policy.md)
 
