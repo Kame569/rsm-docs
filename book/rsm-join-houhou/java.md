@@ -7,8 +7,8 @@ description: JAVA版の方向けの参加方法です
 ## 参加情報 <a href="#join-address" id="join-address"></a>
 
 {% code fullWidth="false" %}
-```
-rsm.bonjin.xyz
+```markup
+rsm.kakka.work
 ```
 {% endcode %}
 

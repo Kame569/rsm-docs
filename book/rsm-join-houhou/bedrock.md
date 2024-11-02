@@ -6,22 +6,10 @@ description: Switch/PC/PS4, 5/スマホ等の機種の参加方法を書いて�
 
 ## 参加情報
 
-アドレス
-
-```
-01d.skl.lol
-```
-
-ポート
-
-```
-8132
-```
-
 XBOX
 
 ```
-mcs2791
+mcss4210
 ```
 
 ## 参加方法
@@ -34,7 +22,7 @@ mcs2791
 
 <figure><img src="../.gitbook/assets/無題 2024-09-01 22-47-30.jpg" alt=""><figcaption></figcaption></figure>
 
-3. **ゲーマータグを検索** から、 [#can-jia-qing-bao](bedrock.md#can-jia-qing-bao "mention")にある`mcs2791`を検索してフレンドを申請しましょう。
+3. **ゲーマータグを検索** から、 [#can-jia-qing-bao](bedrock.md#can-jia-qing-bao "mention")にある`mcss4210`を検索してフレンドを申請しましょう。
 
 <figure><img src="../.gitbook/assets/無題 2024-09-01 22-49-42.jpg" alt=""><figcaption></figcaption></figure>
 

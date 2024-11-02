@@ -1,14 +1,20 @@
 ---
-description: このウェブサイトはRoomServerをより楽しくプレイをするためのサーバーを説明・まとめていきます
+description: このドキュメントはRSMをより楽しくプレイをするためのサーバーを説明・まとめていきます
 ---
 
-# ようころRoomServerへ！
+# ようこそRSMへ！
+
+<figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption><p>lobby server in rsm and text "welcome rsm"</p></figcaption></figure>
 
 ## RoomServerとは？
 
-**RoomServer**は、**みんなで協力して大きなものを作る**ことを目標にした、**アットホームな参加型サーバー**です。フレンドリーなコミュニティで、初心者からベテランまで、みんなが気軽に楽しめるような環境が整っています。建築、レッドストーン、ミニゲームなど、様々な活動を通じて、新しい友達を作り、一緒に思い出に残る時間を過ごしませんか？
+**RoomServer**は、**みんなで協力して大きなものを作る**ことを目標にした、**アットホームな参加型サーバー**です。フレンドリーなコミュニティで、初心者からベテランまで、みんなが気軽に楽しめるような環境が整っています。建築、レッドストーン、ミニゲームなど、様々な活動を通じて、新しい友達を作り、一緒に思い出に残る時間を過ごしませんか？\
+その中のRSMに特化してプラグインの説明をしていきます。\
+
 
 ## RoomServerのフルで楽しむ方法
+
+<figure><img src=".gitbook/assets/image (10).png" alt=""><figcaption><p>roomserver discord</p></figcaption></figure>
 
 [**公式Discordサーバー**](https://discord.gg/WERPCCDAyp)に参加してサポートを受けよう！\
 このドキュメントや、参加型配信でも質問すれば帰ってくるけど、Discordアカウントを作ってみよう！
