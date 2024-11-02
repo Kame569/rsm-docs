@@ -16,7 +16,7 @@ mcss4210
 
 1. Minecraftを**起動**します
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 2. **プレイ**を押して、**マルチプレイ**のタブに行きます。下記の画像になったら、**フレンドを追加** を押してください
 
