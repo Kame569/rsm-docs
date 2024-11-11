@@ -19,3 +19,6 @@
 
 * [EssentialsX](p.survival/essentialsx.md)
 * [VeinMiner](p.survival/veinminer.md)
+* [Jobs](p.survival/jobs.md)
+* [CoreProtect](p.survival/coreprotect.md)
+* [ChestShop](p.survival/chestshop.md)

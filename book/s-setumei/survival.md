@@ -35,4 +35,8 @@
 | Gsit          | 座ったり泳いだりできます                                                            |
 | VainMiner     | 一括破壊できます(設定変更可能 [veinminer.md](../p.survival/veinminer.md "mention"))   |
 | CoreProtect   | 荒らしの特定やロールバックで使用します。                                                    |
+| Jobs          | 職業を追加するプラグイン                                                            |
+| Jecon         | 経済を追加するプラグイン                                                            |
+| LunaChat      | 日本語化プラグイン                                                               |
+| LWC           | チェストを保護するプラグイン                                                          |
 
