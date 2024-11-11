@@ -10,7 +10,11 @@
 
 <figure><img src="https://yaaaa.net/wp-content/uploads/2023/01/eddea82ad2755b24c4e168c5fc2ebd40.png" alt="" height="361" width="498"><figcaption></figcaption></figure>
 
+{% hint style="info" %}
 チェストから1ブロックの範囲内に看板を設置してください。
+{% endhint %}
+
+
 
 1. 何も書かない\
    (改行しないと機能しません)
