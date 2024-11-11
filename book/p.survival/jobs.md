@@ -1,5 +1,6 @@
 ---
 description: 仕事に就職したり、その職業ごとのクエストを行ったりすることができます。
+hidden: true
 ---
 
 # Jobs
