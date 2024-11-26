@@ -1,6 +1,7 @@
 # Table of contents
 
 * [ようこそRSMへ！](README.md)
+* [Mading RoomServer...](mading-roomserver....md)
 * [RSMでの利用規約](tos.md)
 * [プレイバシーポリシー](policy.md)
 
