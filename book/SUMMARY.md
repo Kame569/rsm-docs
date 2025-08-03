@@ -2,7 +2,7 @@
 
 * [ようこそRSMへ！](README.md)
 * [Mading RoomServer...](mading-roomserver....md)
-* [RSMでの利用規約](tos.md)
+* [RoomServerでの利用規約](tos.md)
 * [プレイバシーポリシー](policy.md)
 
 ## RSM参加方法 <a href="#rsm-join-houhou" id="rsm-join-houhou"></a>
