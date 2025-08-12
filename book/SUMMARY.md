@@ -14,12 +14,13 @@
 
 * [HUB鯖](s-setumei/hub.md)
 * [サバイバル鯖](s-setumei/survival.md)
-* [資源鯖](s-setumei/sigen.md)
 
 ## プラグイン-サバイバル鯖 <a href="#p.survival" id="p.survival"></a>
 
 * [EssentialsX](p.survival/essentialsx.md)
 * [VeinMiner](p.survival/veinminer.md)
-* [Jobs](p.survival/jobs.md)
-* [CoreProtect](p.survival/coreprotect.md)
-* [ChestShop](p.survival/chestshop.md)
+* [Gsit](p.survival/gsit.md)
+* [Minepacks](p.survival/minepacks.md)
+* [BlockLocker](p.survival/blocklocker.md)
+* [LunaChat](p.survival/lunachat.md)
+* [IronElevators](p.survival/ironelevators.md)
