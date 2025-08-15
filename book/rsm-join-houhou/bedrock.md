@@ -18,14 +18,14 @@ mcss3751
 
 <figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
-2. **プレイ**を押して、**マルチプレイ**のタブに行きます。下記の画像になったら、**フレンドを追加** を押してください
+2. **プレイ**を押して、**右上にあるフレンドのタブ**に行きます。下記の画像になったら、**フレンドを追加** を押してください
 
-<figure><img src="../.gitbook/assets/無題 2024-09-01 22-47-30.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/スクリーンショット 2025-08-15 145656.png" alt=""><figcaption></figcaption></figure>
 
-3. **ゲーマータグを検索** から、 [#can-jia-qing-bao](bedrock.md#can-jia-qing-bao "mention")にある`mcss4210`を検索してフレンドを申請しましょう。
+2. **ページの一番下のゲーマータグを検索** から、 [#can-jia-qing-bao](bedrock.md#can-jia-qing-bao "mention")にあるmcss3751を検索してフレンドを申請しましょう。
 
-<figure><img src="../.gitbook/assets/無題 2024-09-01 22-49-42.jpg" alt=""><figcaption></figcaption></figure>
+<div data-full-width="false"><figure><img src="../.gitbook/assets/無題 2024-09-01 22-49-42.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/スクリーンショット 2025-08-15 145736.png" alt=""><figcaption></figcaption></figure></div>
 
-4. **参加型サーバー** が出てきたら参加しよう！
+4. **フレンドに、**  `mcss3751` **のワールド**が出てきたら参加しよう！
 
 <figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
