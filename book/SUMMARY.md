@@ -24,3 +24,4 @@
 * [BlockLocker](p.survival/blocklocker.md)
 * [LunaChat](p.survival/lunachat.md)
 * [IronElevators](p.survival/ironelevators.md)
+* [WorldGuard](p.survival/worldguard.md)
